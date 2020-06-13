@@ -1,4 +1,4 @@
-l1=list(map(int, input("Enter the numbers separated by space").split()))
+l1=list(map(int, input("Enter the numbers separated by a space").split()))
 l2=[]
 for x in l1:
     if x>0:
